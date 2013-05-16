@@ -1,0 +1,42 @@
+body {
+  font-size: .815em; 
+  text-align: center;
+  color: #ccc;
+  font-family: 'Open Sans', Arial, sans-serif;
+  text-shadow: 0px 0px 0 rgba(255,255,255, 1); }
+  
+h1 {
+  color: #bbb; }
+
+.number {
+  font-size: 1em;
+  font-weight: ;  
+  margin-bottom: 3px; }
+  
+.title {
+  font-weight: bold;
+  margin-bottom: 2px; }
+
+.reference {
+  margin-top: 6px;
+  font-style: italic;
+  font-size: .95em; }
+
+.calendar ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  clear: both;
+  width: 100%; }
+ 
+.calendar li{
+  display: block;
+  float: left;
+  width: 14.2857142857%;
+  min-height: 180px;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  margin-right: -1px;
+  background: #222;
+  margin-bottom: -1px; }
