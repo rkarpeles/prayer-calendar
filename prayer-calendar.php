@@ -34,7 +34,7 @@
 		<ul>
 		  <li><div class="number">1</div><div class="title">Know God&rsquo;s Love</div>Know the breadth, depth, height, and width of God's love.<div class="reference">Eph. 3:17&ndash;19</div></li>
 			<li><div class="number">2</div><div class="title">Abound in Hope</div>Be filled with joy and peace in believing, so that you may "abound in hope."<div class="reference">Romans 15:13</div></li>
-			<li><div class="number">3</div><div class="title">Taste Jesus' Love</div>"Let him kiss me with the kisses of his mouth! For your love is better than wine."<div class="reference">Song of Sol. 1:2</div></li>
+			<li><div class="number">3</div><div class="title">Taste Jesus&rsquo; Love</div>"Let him kiss me with the kisses of his mouth! For your love is better than wine."<div class="reference">Song of Sol. 1:2</div></li>
 			<li><div class="number">4</div><div class="title">Spirit of Revelation</div>"Give you the Spirit of wisdom and of revelation in the knowledge of him."<div class="reference">Eph. 1:17</div></li>
 			<li><div class="number">5</div><div class="title">Filled with Jesus</div>"Come, everyone who thirsts, comes to the waters; and he who has no money, come, buy and eat!"<div class="reference">Isaiah 55:1</div></li>
 			<li><div class="number">6</div><div class="title">Know True Identity</div>"Because you are precious in my eyes, and honored, and I love you."<div class="reference">Isaiah 43:3</div></li>
