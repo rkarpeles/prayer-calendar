@@ -32,7 +32,7 @@
 
 	<div class="calendar">
 		<ul>
-		  <li><div class="number">1</div><div class="title">Know God's Love</div>Know the breadth, depth, height, and width of God's love.<div class="reference">Eph. 3:17&ndash;19</div></li>
+		  <li><div class="number">1</div><div class="title">Know God&rsquo;s Love</div>Know the breadth, depth, height, and width of God's love.<div class="reference">Eph. 3:17&ndash;19</div></li>
 			<li><div class="number">2</div><div class="title">Abound in Hope</div>Be filled with joy and peace in believing, so that you may "abound in hope."<div class="reference">Romans 15:13</div></li>
 			<li><div class="number">3</div><div class="title">Taste Jesus' Love</div>"Let him kiss me with the kisses of his mouth! For your love is better than wine."<div class="reference">Song of Sol. 1:2</div></li>
 			<li><div class="number">4</div><div class="title">Spirit of Revelation</div>"Give you the Spirit of wisdom and of revelation in the knowledge of him."<div class="reference">Eph. 1:17</div></li>
