@@ -62,7 +62,7 @@
 			<li><div class="number">18</div><div class="title">Abound in Love</div>"It is my prayer that your love may abound more and more."<div class="reference">Phil. 1:9</div></li>
 			<li><div class="number">19</div><div class="title">Follow Him Closely</div>"My sheep hear my voice, and I know them, and they follow me."<div class="reference">John 10:27</div></li>
 			<li><div class="number">20</div><div class="title">Know Jesus Deeply</div>"And this is eternal life, that they know you the only true God, and Jesus Christ whom you have sent."<div class="reference">John 17:3</div></li>
-			<li><div class="number">21</div><div class="title">Love</div>"verse here"<div class="reference">Verse 3:10</div></li>
+			<li><div class="number">21</div><div class="title">Grace to Remain Steadfast</div>"And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing."<div class="reference">James 1:4</div></li>
 		</ul>
 	</div>
 
