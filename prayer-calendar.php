@@ -68,7 +68,7 @@
 
 	<div class="calendar">
 		<ul>
-			<li><div class="number">22</div><div class="title">Savor the Word</div>The word would be "sweeter also than honey and drippings of the honeycomb."<div class="reference">Psalm 19:10</div></li>
+			<li><div class="number">22</div><div class="title">Sweetness of the Word</div>The word would be "sweeter also than honey and drippings of the honeycomb."<div class="reference">Psalm 19:10</div></li>
 			<li><div class="number">23</div><div class="title">Love</div>"verse here"<div class="reference">Verse 3:10</div></li>
 			<li><div class="number">24</div><div class="title">Love</div>"verse here"<div class="reference">Verse 3:10</div></li>
 			<li><div class="number">25</div><div class="title">Love</div>"verse here"<div class="reference">Verse 3:10</div></li>
