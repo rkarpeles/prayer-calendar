@@ -73,8 +73,8 @@
 			<li><div class="number">24</div><div class="title">Mount Up on Eagle&rsquo;s Wings</div>"They who wait for the Lord shall renew their strength; they shall mount up with wings like eagles."<div class="reference">Isaiah 40:31</div></li>
 			<li><div class="number">25</div><div class="title">Encourage Others</div>"Stir up one another to love and good works [...], encouraging one another."<div class="reference">Hebrews 10:24-25</div></li>
 			<li><div class="number">26</div><div class="title">Love from Others</div>"That the love with which you have loved me [Jesus] may be in them."<div class="reference">John 17:26</div></li>
-			<li><div class="number">27</div><div class="title">Love</div>"verse here"<div class="reference">Verse 3:10</div></li>
-			<li><div class="number">28</div><div class="title">Love</div>"verse here"<div class="reference">Verse 3:10</div></li>
+			<li><div class="number">27</div><div class="title">Strengthened by Joy</div>"And do not be grieved, for the joy of the Lord is your strength."<div class="reference">Nehemiah 8:10</div></li>
+			<li><div class="number">28</div><div class="title">Stand up for Truth</div>"They hate him who reproves in the gate, and they abhor him who speaks the truth."<div class="reference">Amos 5:10</div></li>
 		</ul>
 	</div>
 
