@@ -58,7 +58,7 @@
 		<ul>
 			<li><div class="number">15</div><div class="title">God&rsquo;s Help to Train</div>"Train up a child in the way he should go; even when he is old he will not depart from it."<div class="reference">Prov. 22:6</div></li>
 			<li><div class="number">16</div><div class="title">Train Younger Women</div>"Train the young women" in love, self-control, purity, diligence, godliness.<div class="reference">Titus 2:4&ndash;5</div></li>
-			<li><div class="number">17</div><div class="title">Make Disciples</div>Go and make disciples of all nations, baptizing them, and teaching to obey Jesus&rsquo; commandments.<div class="reference">Matt 28:19&ndash;20</div></li>
+			<li><div class="number">17</div><div class="title">Make Disciples</div>Go and make disciples of all nations, baptizing them, and teaching to obey Jesus&rsquo; commandments.<div class="reference">Matt. 28:19&ndash;20</div></li>
 			<li><div class="number">18</div><div class="title">Abound in Love</div>"It is my prayer that your love may abound more and more."<div class="reference">Phil. 1:9</div></li>
 			<li><div class="number">19</div><div class="title">Follow Him Closely</div>"My sheep hear my voice, and I know them, and they follow me."<div class="reference">John 10:27</div></li>
 			<li><div class="number">20</div><div class="title">Know Jesus Deeply</div>"And this is eternal life, that they know you the only true God, and Jesus Christ whom you have sent."<div class="reference">John 17:3</div></li>
@@ -80,7 +80,7 @@
 
 	<div class="calendar">
 		<ul>
-			<li><div class="number">29</div><div class="title">Love</div>"verse here"<div class="reference">Verse 3:10</div></li>
+			<li><div class="number">29</div><div class="title">Enjoy Abundant Life</div>"Go, eat your bread with joy, find enjoyment in her toil" and live the abundant life.<div class="reference">Eccl. 9:7, 2:24, John 10:10</div></li>
 			<li><div class="number">30</div><div class="title">Love</div>"verse here"<div class="reference">Verse 3:10</div></li>
 			<li><div class="number">31</div><div class="title">Love</div>"verse here"<div class="reference">Verse 3:10</div></li>			
 		</ul>
