@@ -81,7 +81,7 @@
 	<div class="calendar">
 		<ul>
 			<li><div class="number">29</div><div class="title">Enjoy Abundant Life</div>"Go, eat your bread with joy, find enjoyment in your toil" and live the abundant life.<div class="reference">Eccl. 9:7, 2:24, John 10:10</div></li>
-			<li><div class="number">30</div><div class="title">Love</div>"verse here"<div class="reference">Verse 3:10</div></li>
+			<li><div class="number">30</div><div class="title">Increased Faith</div>Faith to move mountains, knowing that "whatever you ask in prayer, believe that you have received it, and it will be yours."<div class="reference">Mark 11:22-24</div></li>
 			<li><div class="number">31</div><div class="title">Love</div>"And you shall love the Lord your God with all your heart, soul, mind, and strength. And you shall love your neighbor as yourself."<div class="reference">Mark 12:30-31</div></li>			
 		</ul>
 	</div>
