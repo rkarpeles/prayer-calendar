@@ -47,7 +47,7 @@
 			<li><div class="number">8</div><div class="title">Thanksgiving</div>"Oh give thanks to the Lord, for he is good; for his steadfast love endures forever!"<div class="reference">1 Chron. 16:34</div></li>
 			<li><div class="number">9</div><div class="title">Protection &amp; Deliverance</div>"Because he holds fast to me in love, I will deliver him; I will protect him, because he knows my name."<div class="reference">Psalm 91:14</div></li>
 			<li><div class="number">10</div><div class="title">Strength in Him</div>"Finally, be strong in the Lord and in the strength of his might."<div class="reference">Eph. 6:10</div></li>
-			<li><div class="number">11</div><div class="title">Bold Witness</div>"That words may be given to me in opening my mouth boldly to proclaim the mystery of the gospel,"<div class="reference">Eph 6:19</div></li>
+			<li><div class="number">11</div><div class="title">Bold Witness</div>"That words may be given to me in opening my mouth boldly to proclaim the mystery of the gospel."<div class="reference">Eph 6:19</div></li>
 			<li><div class="number">12</div><div class="title">Faith to Prophecy</div>"Let us use them [gifts]: if prophecy, in proportion to our faith."<div class="reference">Romans 12:6</div></li>
 			<li><div class="number">13</div><div class="title">His Power</div>"May you be strengthened with all power, according to his glorious might, for all endurance and patience with joy."<div class="reference">Col. 1:11</div></li>
 			<li><div class="number">14</div><div class="title">Knowledge of Christ</div>"To reach all the riches [...] of understanding and the knowledge of God's mystery, which is Christ."<div class="reference">Col. 2:2&ndash;3</div></li>
